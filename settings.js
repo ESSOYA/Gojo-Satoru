@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.owner = ['24106813542']
+global.premium = ['24106813542']
+global.ownernomer = '24106813542'
+global.ownername = 'YARANUSTRAS😉😎'
+global.botname = 'YARANUS'
 global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.ig = 'https://github.com/ESSOYA'
+global.region = 'GABON, ESTUAIRE, LIBREVILLE'
+global.sc = 'https://github.com/ESSOYA/Gojo-Satoru'
+global.myweb = 'https://www.youtube.com/channel/UCR1iZWS26T8fPxmX1mwLb7g'
 global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.author = 'YARANUSTRAS😉😎'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -44,11 +44,11 @@ global.mess = {
     bot: 'This Feature Is Only For Bot',
     wait: 'Wait A minute...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 24 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 24,
     monayawal: 1000
 }
    global.rpg = {
